@@ -4,8 +4,8 @@
   "version": "0.1.0",
   "description": "Dark and easy on the eyes Atom syntax theme",
   "repository": {
-      "type": "git",
-      "https://github.com/mieky/bittersweet-syntax"
+    "type": "git",
+    "url": "https://github.com/mieky/bittersweet-syntax"
   },
   "license": "MIT",
   "engines": {
