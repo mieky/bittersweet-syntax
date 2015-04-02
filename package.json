@@ -1,0 +1,14 @@
+{
+  "name": "bittersweet-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Dark and easy on the eyes Atom syntax theme",
+  "repository": {
+      "type": "git",
+      "https://github.com/mieky/bittersweet-syntax"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
